@@ -1,10 +1,7 @@
-/******************** Importing Essential Libraries ************************/
+
 
 import java.util.*;
 import java.io.*;
-
-
-/*************************** MENU OF EMS ****************************/
 
 class MainMenu
 {
@@ -275,5 +272,6 @@ class EmployManagementSystem
   }
 }
 
-/****************************** CODED BY ABHINAV DUBEY ************************/
+
+
 
